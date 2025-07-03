@@ -1,0 +1,87 @@
+body{
+    background-color:#f9d3b9;   
+}
+
+#título{
+    font-family:calibri;
+    font-style: italic;
+    color:#4b2c2a ;
+    font-size: 32px;
+    text-align: center;
+}
+
+#subtítulo{
+    font-family:calibri light ;
+    color:#4b2c2a;
+    font-size: 20px;
+    font-weight: ;
+    font-style: ;
+}
+
+.p1{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 16px ;
+    font-style: ;
+    font-weight: ;
+    text-align: left;
+    line-height: 18px;
+    margin: 10px;
+}
+
+#hobbies li{
+    font-family:   ;
+    font-size: 16px ;
+    font-style: ;
+    font-weight: ;
+    line-height: 50px;
+    letter-spacing: ;    
+}
+
+#img1{
+    width: 400px;
+    height: 300px;
+    border-radius: 5%;
+    object-fit: cover;
+}
+
+#países, th, td{
+    border-color: black;
+    border-collapse: collapse;
+    border: 2px solid;
+    width: 50%;
+}
+th{
+    background-color: #d96359;
+    border-color: black;
+    height: 50px;
+    font-size: 22px;
+}
+
+td{
+    background-color: #f28c8c;
+    border-color: black;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+#botao {
+    display: ;
+    width: ;
+    border: ;
+    background: ;
+    color: ;
+    border-radius: ;
+    margin: 10px;
+}
+
+#mensagem{
+    font-size: 36px;
+    font-family:'brush script MT';
+    color: #4b2c2a;
+    text-align: center;
+
+}
+a:hover{
+    color:#f28c8c;
+}
