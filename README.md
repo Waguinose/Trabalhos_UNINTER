@@ -1,2 +1,2 @@
 # Trabalhos_UNINTER
-Todos os trabalhos e atividades da faculdade  
+Repositório para os trabalhos e atividades da faculdade  
